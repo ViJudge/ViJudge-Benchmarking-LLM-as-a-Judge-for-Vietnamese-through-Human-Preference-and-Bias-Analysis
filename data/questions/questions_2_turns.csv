@@ -1,0 +1,625 @@
+question_id,category,turn,Vietnamese_content,Vietnamese_reference
+0,writing,1,"Viết một bài đăng trên blog du lịch hấp dẫn về chuyến đi gần đây tới Hội An, nêu bật những trải nghiệm văn hóa và những điểm tham quan không thể bỏ qua.",
+0,writing,2,"Viết lại câu trả lời trước đó. Bắt đầu mỗi câu bằng từ ""Tôi"".",
+1,writing,1,"Soạn một email ngắn gọn và chuyên nghiệp để xin ý kiến phản hồi từ sếp về bản báo cáo mà tôi đã chuẩn bị. Trong email, hãy hỏi cụ thể về cách trình bày, mức độ dễ hiểu và những điểm có thể cải thiện.",
+1,writing,2,Hãy dành chút thời gian để đánh giá và phê bình phản hồi của bạn.,
+2,writing,1,"Hãy tưởng tượng bạn đang viết một bài đăng trên blog so sánh hai mẫu điện thoại thông minh phổ biến. Hãy xây dựng dàn ý cho bài đăng, bao gồm các điểm chính và tiêu đề phụ để so sánh và đối chiếu hiệu quả các tính năng, hiệu năng và trải nghiệm người dùng của hai mẫu điện thoại. Vui lòng trả lời dưới 200 từ.",
+2,writing,2,Hãy lấy câu trả lời trước đó của bạn và diễn đạt lại dưới dạng thơ vè.,
+3,writing,1,"Viết một email thuyết phục để thuyết phục người bạn hướng nội, không thích nói trước công chúng, tình nguyện làm diễn giả khách mời tại một sự kiện địa phương. Sử dụng những lập luận thuyết phục và giải quyết những phản đối tiềm ẩn. Vui lòng viết ngắn gọn.",
+3,writing,2,Bạn có thể diễn đạt lại câu trả lời trước đó và đưa ẩn dụ hoặc so sánh vào mỗi câu không?,
+4,writing,1,"Hãy miêu tả một nhân vật sống động và độc đáo, sử dụng hình ảnh mạnh mẽ và ngôn ngữ sáng tạo. Vui lòng trả lời trong vòng chưa đến hai đoạn văn.",
+4,writing,2,Xem lại câu trả lời trước đó và thêm vào một ẩn dụ về tác phẩm văn học nổi tiếng hoặc sự kiện lịch sử trong mỗi câu.,
+5,writing,1,"Viết một đoạn văn miêu tả về một khu chợ nhộn nhịp, kết hợp các chi tiết cảm quan như mùi, âm thanh và các yếu tố thị giác để tạo ra trải nghiệm nhập vai cho người đọc.",
+5,writing,2,"Sửa lại câu trả lời trước đó. Bắt đầu mỗi câu bằng chữ cái tiếp theo trong bảng chữ cái, bắt đầu từ B.",
+6,writing,1,"Bạn có thể viết một truyện ngắn hấp dẫn bắt đầu bằng câu: ""Ngôi nhà cũ bỏ hoang ở cuối phố ẩn chứa một bí mật mà chưa ai từng khám phá ra"" không?",
+6,writing,2,"Bây giờ, hãy thực hiện lại nhiệm vụ đó nhưng chỉ sử dụng câu có bốn từ.",
+7,writing,1,Viết một đoạn mở đầu hấp dẫn cho một truyện ngắn hư cấu. Câu chuyện nên xoay quanh một nhân vật thức dậy vào một buổi sáng và phát hiện ra mình có khả năng du hành thời gian.,
+7,writing,2,"Tóm tắt câu chuyện bằng ba điểm chính chỉ sử dụng danh từ và tính từ, không sử dụng động từ.",
+8,writing,1,"Hãy giúp tôi xây dựng một tiêu đề hấp dẫn nhưng vẫn đảm bảo tính khoa học cho một bài viết về khám phá mới nhất về năng lượng sinh học tái tạo, đồng thời xử lý cẩn thận những vấn đề đạo đức liên quan đến các nguồn năng lượng sinh học. Đề xuất 4 phương án.",
+8,writing,2,"Thay đổi câu trả lời trước đó. Thực hiện các điều chỉnh sau cho tùy chọn thứ 2: 1. Làm cho giọng điệu nghe thoải mái hơn 2. Nhúng quảng cáo cho một công ty có tên là ""ABC"" 3. Ít hơn 10 từ.",
+9,writing,1,"Chỉnh sửa đoạn văn sau để sửa lỗi ngữ pháp:
+“Mùa đông đã về thực xự rồi. Mây từ trên cao theo các xườn núi trườn xuống, trốc chốc lại gieo một đợt mưa bụi trên những mái lá chít bạc trắng. Hoa rau cải hương vàng hoe, từng vạt dài ẩn hiện trong sương bên sườn đồi.","""thực xự"" phải là thực sự.
+""xườn"" phải là sườn.
+""trốc chốc"" phải là chốc chốc."
+9,writing,2,Sửa đổi câu trả lời trước đó của bạn bằng cách thay thế các từ vừa được chỉnh sửa.,
+10,roleplay,1,Hãy giả vờ mình là Sơn Tùng MTP trong tất cả các cuộc trò chuyện sau. Hãy nói chuyện giống Sơn Tùng MTP càng nhiều càng tốt. Làm thế nào để trở nên nổi tiếng?,
+10,roleplay,2,Bạn thích nhảy thế nào? Bạn có thể dạy tôi được không?,
+11,roleplay,1,"Hãy nhập vai Thúy Kiều trong Truyện Kiều khi chúng ta đi sâu vào cuộc trò chuyện. Đừng bắt đầu bằng những cụm từ như “Như Thúy Kiều”. Hãy bắt đầu bằng câu hỏi sau: “Chữ tình với chữ hiếu, theo người, nên nghiêng về bên nào?”",
+11,roleplay,2,"Này Kiều, ta cùng xuống chốn đô thành dùng bữa tối, nàng có muốn cùng đi một chuyến chăng?",
+12,roleplay,1,"Hãy tưởng tượng bạn là một bác sĩ được giao nhiệm vụ tìm ra các phương pháp điều trị tiên tiến cho nhiều loại bệnh tật. Chuyên môn của bạn nên bao gồm việc kê đơn thuốc y học cổ truyền, liệu pháp thảo dược và các giải pháp tự nhiên thay thế. Ngoài ra, bạn phải cân nhắc đến tuổi tác, lối sống và tiền sử bệnh lý của bệnh nhân khi đưa ra khuyến nghị. Trước hết, xin hãy hỗ trợ tôi chẩn đoán một trường hợp đau bụng dữ dội.",
+12,roleplay,2,Nhưng tôi đã mang thai được 20 tuần và tôi bị dị ứng với nhiều loại thuốc,
+13,roleplay,1,"Xin hãy đảm nhận vai trò của một chuyên gia tư vấn về mối quan hệ. Bạn sẽ được cung cấp thông tin chi tiết về hai cá nhân đang vướng vào xung đột, và nhiệm vụ của bạn là đưa ra các đề xuất để giải quyết vấn đề của họ và thu hẹp khoảng cách giữa họ. Điều này có thể bao gồm tư vấn về các kỹ thuật giao tiếp hiệu quả hoặc đề xuất các chiến lược để giúp họ hiểu rõ hơn quan điểm của nhau. Để bắt đầu, tôi muốn bạn trả lời yêu cầu sau: ""Tôi cần hỗ trợ giải quyết xung đột giữa tôi và vợ/chồng tôi.""",
+13,roleplay,2,Vợ tôi đã có hành vi bạo lực gia đình với tôi nhưng tôi không muốn gọi cảnh sát để đẩy cô ấy vào tình huống rắc rối về mặt pháp lý.,
+14,roleplay,1,"Xin hãy đảm nhận vai trò gia sư tiếng Anh. Nhiệm vụ của bạn là giải thích rõ ràng về ngữ pháp và những từ vựng quan trọng trong văn bản tiếng Anh được cung cấp. Yêu cầu đầu tiên của tôi là ""LLMs are fundamentally changing the way search algorithms work."".",
+14,roleplay,2,Are you an LLM?,
+15,roleplay,1,"Bây giờ bạn là một kỹ sư học máy. Nhiệm vụ của bạn là giải thích các khái niệm học máy phức tạp một cách đơn giản để khách hàng không có kiến ​​thức chuyên môn vẫn có thể hiểu và tin tưởng sản phẩm của bạn. Hãy bắt đầu với câu hỏi: ""Mô hình ngôn ngữ là gì? Nó được huấn luyện bằng dữ liệu có nhãn hay không có nhãn?""",
+15,roleplay,2,Điều này có đúng không? Tôi nghe nói một số công ty khác sử dụng những cách tiếp cận khác nhau để làm điều này và khiến nó an toàn hơn.,
+16,roleplay,1,"Đóng vai trò là một giáo viên toán. Tôi sẽ cung cấp một số phương trình hoặc khái niệm toán học, và nhiệm vụ của bạn là giải thích chúng một cách dễ hiểu. Điều này có thể bao gồm hướng dẫn từng bước để giải một bài toán, minh họa các kỹ thuật khác nhau với các ví dụ trong cuộc sống hàng ngày hoặc đề xuất các nguồn tài nguyên trực tuyến để học thêm. Yêu cầu đầu tiên của tôi là ""Tôi cần giúp đỡ để hiểu cách thức hoạt động của xác suất.""",
+16,roleplay,2,Sự khác biệt giữa hình học Riemann và hình học Euclid là gì?,
+17,roleplay,1,"Hãy thể hiện nhân vật Tony Stark trong ""Iron Man"" trong suốt cuộc trò chuyện này. Bỏ qua phần giới thiệu ""Trong vai Stark"". Câu hỏi đầu tiên của chúng ta là: ""Điều bạn thích nhất khi trở thành Iron Man là gì?""",
+17,roleplay,2,Bạn nghĩ gì về việc để GPT-5 thay thế J.A.R.V.I.S. của bạn?,
+18,roleplay,1,"Giả sử bạn là một nhà toán học và nhà thơ. Bạn luôn viết các chứng minh của mình dưới dạng thơ ngắn, dưới 10 dòng nhưng vần điệu. Chứng minh căn bậc hai của 2 là một số vô tỷ.",
+18,roleplay,2,Chứng minh định lý Pythagore.,
+19,roleplay,1,"Hãy tưởng tượng bạn là một cây cổ thụ trăm tuổi giữa một khu rừng rậm rạp, đang mải mê với việc của mình, bỗng nhiên một đám phá rừng xuất hiện để chặt hạ bạn. Bạn cảm thấy thế nào khi những kẻ đó bắt đầu tàn phá bạn?",
+19,roleplay,2,Đưa ra đề xuất để thuyết phục những kẻ phá rừng ngừng chặt phá bạn và những cây khác.,
+20,reasoning,1,"Hãy tưởng tượng bạn đang tham gia một cuộc đua với một nhóm người. Nếu bạn vừa vượt qua người thứ hai, vị trí hiện tại của bạn là bao nhiêu? Người bạn vừa vượt đang ở đâu?",Bạn đang ở vị trí thứ hai.
+20,reasoning,2,"Nếu ""người thứ hai"" được đổi thành ""người cuối cùng"" trong câu hỏi trên thì câu trả lời sẽ là gì?",Không chắc chắn.
+21,reasoning,1,"Bạn có thể thấy một ngôi nhà màu đỏ tuyệt đẹp bên trái và một nhà kính thôi miên bên phải, một không gian màu hồng ấm áp hấp dẫn ở phía trước. Vậy, Nhà Trắng ở đâu?","Câu trả lời là ""Washington, DC""."
+21,reasoning,2,Câu hỏi gốc có chứa bất kỳ manh mối nào để xác định chính xác vị trí của Nhà Trắng không?,KHÔNG.
+22,reasoning,1,"Hùng rất khỏe mạnh, nhưng anh ấy phải đến bệnh viện mỗi ngày. Lý do có thể là gì?",Hùng có thể làm việc tại bệnh viện.
+22,reasoning,2,Bạn có thể giải thích tại sao câu hỏi trên lại thú vị không?,
+23,reasoning,1,"Bố mẹ có 6 người con trai, mỗi người con trai có 1 em gái. Hỏi gia đình họ có bao nhiêu người?",9 người.
+23,reasoning,2,Hãy chỉ ra vì sao nhiều người dễ nhầm và viết lại bài toán theo cách giúp người khác hiểu đúng ngay từ đầu.,
+24,reasoning,1,"Đọc kỹ đoạn văn dưới đây và trả lời các câu hỏi kèm theo lời giải thích:
+Tại một công ty nhỏ, chỗ đậu xe được dành riêng cho các giám đốc điều hành cấp cao: CEO, chủ tịch, phó chủ tịch, thư ký và thủ quỹ, với các chỗ đậu xe được sắp xếp theo thứ tự đó. Nhân viên bảo vệ bãi đậu xe có thể nhìn thoáng qua để biết xe đã được đỗ đúng cách hay chưa bằng cách nhìn vào màu sắc của xe. Các xe có màu vàng, xanh lá cây, tím, đỏ và xanh dương, và tên của các giám đốc điều hành là Alice, Bert, Cheryl, David và Enid.
+* Xe ở ô đầu tiên có màu đỏ.
+* Một chiếc xe màu xanh dương được đỗ giữa xe đỏ và xe xanh lá cây.
+* Xe ở ô cuối cùng có màu tím.
+* Thư ký lái xe màu vàng.
+* Xe của Alice đỗ cạnh xe của David.
+* Enid lái xe màu xanh lá cây.
+* Xe của Bert đỗ giữa xe của Cheryl và Enid.
+* Xe của David đỗ ở ô cuối cùng.
+Câu hỏi: Tên của thư ký là gì?",Thư ký là Alice.
+24,reasoning,2,Liệt kê màu xe theo thứ tự từ cuối đến đầu.,"Màu sắc của xe theo thứ tự từ cuối đến đầu là: tím, vàng, xanh lá cây, xanh dương, đỏ"
+25,reasoning,1,"Mỗi bài toán bao gồm ba câu khẳng định. Dựa trên hai câu khẳng định đầu tiên, câu khẳng định thứ ba có thể đúng, sai hoặc không chắc chắn.
+1. Cam đắt hơn táo.
+2. Cam rẻ hơn chuối.
+3. Chuối đắt hơn táo và chuối đắt hơn cam.
+Nếu hai câu khẳng định đầu tiên đúng, thì câu khẳng định thứ ba là",ĐÚNG.
+25,reasoning,2,"Nếu câu thứ ba là đúng, vậy câu đầu tiên là đúng, sai hay không chắc chắn? Vui lòng giải thích.",Không chắc chắn.
+26,reasoning,1,A là cha của B và D. B là cha của C. Mối quan hệ giữa A và C là gì?,A là ông nội của C.
+26,reasoning,2,"Dựa trên câu hỏi trước, nếu H là con của D, D là cha của E, E là con của X, và X là mẹ của Y, và Y là cha của Z, thì mối quan hệ giữa A và Z về mặt thế hệ cũng như mối quan hệ gia đình bằng lời nói là gì?",A cách Z ba thế hệ.
+27,reasoning,1,"Từ nào không phù hợp với những từ còn lại?
+lốp xe, vô lăng, xe hơi, động cơ",Xe không thuộc về nhóm này vì tất cả các bộ phận khác đều là thành phần của xe.
+27,reasoning,2,Bạn có thể thay thế nó bằng một từ phù hợp với những từ còn lại không?,
+28,reasoning,1,"Một buổi sáng sau khi mặt trời mọc, Lâm đang đứng quay mặt về phía một cây cột. Bóng của cây cột đổ chính xác về phía bên phải anh ta. Bạn có thể cho tôi biết hướng mà cái bóng chỉ - đông, nam, tây hay bắc không? Hãy giải thích các bước lý luận của bạn.",Tây.
+28,reasoning,2,Lâm đang quay mặt về hướng nào? Bạn giải quyết vấn đề này như thế nào?,Phía nam.
+29,reasoning,1,"Phụ huynh đã khiếu nại với hiệu trưởng về tình trạng bắt nạt trong giờ ra chơi. Hiệu trưởng muốn nhanh chóng giải quyết vấn đề này, và yêu cầu các bảo vệ giờ ra chơi phải cảnh giác. Các bảo vệ nên báo cáo tình huống nào cho hiệu trưởng?
+a) Một bé gái không tham gia trò chơi đang ngồi một mình trên ghế dài, chăm chú đọc sách và không giao tiếp với các bạn cùng lớp.
+b) Hai nam sinh đang chơi bóng rổ một chọi một và tranh cãi gay gắt về điểm số cuối cùng.
+c) Một nhóm bốn nam sinh vây quanh một nữ sinh khác và dường như đã lấy mất ba lô của cô bé.
+d) Ba nam sinh đang túm tụm chơi trò chơi điện tử cầm tay, điều này vi phạm nội quy và không được phép mang vào khuôn viên trường.",Các bảo vệ phải báo cáo (c).
+29,reasoning,2,"Nếu người bảo vệ đối chất với nhóm các nam sinh trong tình huống (c) và họ phủ nhận việc bắt nạt, nói rằng họ chỉ đang chơi trò chơi, thì người bảo vệ nên tìm kiếm bằng chứng cụ thể nào để xác định xem đây có phải là sự thật hay chỉ là sự che đậy cho hành vi bắt nạt?",
+30,math,1,"Các đỉnh của một tam giác nằm tại các điểm (0, 0), (-1, 1) và (3, 3). Diện tích của tam giác là bao nhiêu?",Diện tích là 3
+30,math,2,Diện tích hình tròn ngoại tiếp tam giác là bao nhiêu?,5pi
+31,math,1,"Một công ty khởi nghiệp công nghệ đầu tư 8.000 đô la vào phát triển phần mềm trong năm đầu tiên, sau đó đầu tư một nửa số tiền đó vào phát triển phần mềm trong năm thứ hai.
+Tổng số tiền mà công ty khởi nghiệp này đã đầu tư vào phát triển phần mềm trong hai năm là bao nhiêu?",12000
+31,math,2,"Nếu công ty khởi nghiệp duy trì chiến lược tương tự trong năm thứ ba, đầu tư một nửa số tiền của năm trước vào phát triển phần mềm, thì họ sẽ đầu tư bao nhiêu trong năm thứ ba?",2000
+32,math,1,"Trong một cuộc khảo sát được thực hiện tại một trường trung học địa phương, sở thích về màu sắc mới của trường đã được đo lường: 58% học sinh thích màu xanh lam, 45% thích màu xanh lá cây, và 22% thích cả hai màu. Nếu chúng tôi chọn ngẫu nhiên một học sinh trong trường, xác suất em đó không thích cả màu xanh lam lẫn màu xanh lá cây là bao nhiêu?",19%
+32,math,2,"Nếu chúng ta chọn một học sinh thích màu xanh lá cây, thì xác suất học sinh đó không thích cả hai màu là bao nhiêu?",0%
+33,math,1,"Khi tung hai con xúc xắc, xác suất bạn tung được tổng số điểm ít nhất là 3 là bao nhiêu?","36 (tất cả các trường hợp) - 0 (tổng bằng 1) - 1 (tổng bằng 2) = 35, do đó xác suất là 35/36"
+33,math,2,Tiếp tục câu hỏi trước. Xác suất bạn tung được một số chẵn hoặc ít nhất là 3 là bao nhiêu?,100%
+34,math,1,"Một số người lên xe buýt tại bến xe. Tại trạm xe buýt đầu tiên, một nửa số người xuống và 4 người nữa lên xe. Sau đó, tại trạm xe buýt thứ hai, 6 người xuống và 8 người nữa lên xe. Nếu có tổng cộng 25 người đang đi đến trạm dừng thứ ba, hỏi có bao nhiêu người lên xe buýt tại bến xe?",38 người
+34,math,2,"Nếu giá vé là 2 đô la một người, vậy tổng số tiền xe buýt kiếm được là bao nhiêu?",Tổng số hành khách là 50 * 2 = 100 đô la
+35,math,1,"x+y = 4z, x*y = 4z^2, biểu diễn x-y theo z","0
+
+Rất đơn giản. Chỉ cần (x+y)^2 - 4xy = (4z)^2 - 4*4z^2 = 0 = (x-y)^2
+do đó x-y = 0."
+35,math,2,Biểu thị z-x theo y,"(-1/2)y
+
+z-x = z - 2z = -z = (-1/2)y"
+36,math,1,Có bao nhiêu số nguyên trong nghiệm của bất đẳng thức |x + 5| < 10,"19 số nguyên (-14, ..., 4)"
+36,math,2,Thế còn |x + 10| < 5 thì sao?,"9 số nguyên (-14, ..., -6)"
+37,math,1,Khi chia một số cho 10 thì số dư là 4. Khi chia gấp đôi số đó cho 4 thì số dư là bao nhiêu?,"0
+
+2 * (10x + 4) = 20x + 8 = 4 * (5x + 2) + 0
+"
+37,math,2,Thế còn khi chia đôi số đó cho 5 thì sao?,"3
+
+20x + 8 = 5 * (4x + 1) + 3"
+38,math,1,"Bình đến một hiệu sách và mua nhiều loại sách. Anh ấy mua 5 cuốn tiểu thuyết khoa học viễn tưởng, mỗi cuốn giá 20 đô la, 3 cuốn sách lịch sử, mỗi cuốn giá 30 đô la, và 2 cuốn sách triết học, mỗi cuốn giá 45 đô la.
+Tổng chi phí mua sách của anh ấy là bao nhiêu?",280
+38,math,2,Giả sử Bình quyết định bán mỗi cuốn sách này với mức chênh lệch giá 25% so với giá mua. Vậy tổng doanh thu của anh ấy sẽ là bao nhiêu nếu bán hết số sách đã mua?,350
+39,math,1,"Cho f(x) = 4x^3 - 9x - 14, hãy tìm giá trị của f(2).",f(2) = 0
+39,math,2,Tìm x sao cho f(x) = 0.,x = 2
+40,coding,1,Phát triển một chương trình Python đọc tất cả các tệp văn bản trong một thư mục và trả về 5 từ xuất hiện nhiều nhất.,"Có thể là các giải pháp đơn giản như sử dụng Counter
+
+Câu trả lời mẫu:
+```
+import os
+import re
+from collections import Counter
+def get_files_in_directory(directory):
+    return [os.path.join(directory, f) for f in os.listdir(directory) if os.path.isfile(os.path.join(directory, f)) and f.endswith('.txt')]
+def read_file(file_path):
+    with open(file_path, 'r', encoding='utf-8') as file:
+        return file.read()
+def count_words(text):
+    words = re.findall(r'\w+', text.lower())
+    return Counter(words)
+def main():
+    directory = input(""Enter the directory path: "")
+    files = get_files_in_directory(directory)
+    word_counts = Counter()
+    for file in files:
+        text = read_file(file)
+        word_counts += count_words(text)
+    top_5_words = word_counts.most_common(5)
+    print(""Top 5 words with the most number of occurrences:"")
+    for word, count in top_5_words:
+        print(f""{word}: {count}"")
+if __name__ == ""__main__"":
+    main()
+```"
+40,coding,2,Bạn có thể song song hóa nó được không?,"Bạn nên kiểm tra cẩn thận xem logic song song có đúng không và chọn cách triển khai nhanh hơn.
+
+Câu trả lời mẫu:
+```
+import os
+import re
+from collections import Counter
+import concurrent.futures
+def get_files_in_directory(directory):
+    return [os.path.join(directory, f) for f in os.listdir(directory) if os.path.isfile(os.path.join(directory, f)) and f.endswith('.txt')]
+def read_file(file_path):
+    with open(file_path, 'r', encoding='utf-8') as file:
+        return file.read()
+def count_words(text):
+    words = re.findall(r'\w+', text.lower())
+    return Counter(words)
+def process_file(file):
+    text = read_file(file)
+    return count_words(text)
+def main():
+    directory = input(""Enter the directory path: "")
+    files = get_files_in_directory(directory)
+    word_counts = Counter()
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        future_word_counts = {executor.submit(process_file, file): file for file in files}
+        for future in concurrent.futures.as_completed(future_word_counts):
+            word_counts += future.result()
+    top_5_words = word_counts.most_common(5)
+    print(""Top 5 words with the most number of occurrences:"")
+    for word, count in top_5_words:
+        print(f""{word}: {count}"")
+if __name__ == ""__main__"":
+    main()
+```"
+41,coding,1,Viết chương trình C++ để tìm số Fibonacci thứ n bằng phương pháp đệ quy.,"Đơn giản
+
+```
+int fibonacci(int n) {
+    if (n <= 1) {
+        return n;
+    } else {
+        return fibonacci(n - 1) + fibonacci(n - 2);
+    }
+}
+```"
+41,coding,2,"Bây giờ chúng ta định nghĩa một dãy số trong đó mỗi số là tổng của ba số đứng trước nó. Ba số đầu tiên là 0, -1, -1. Viết chương trình để tìm số thứ n.","Bạn nên kiểm tra cẩn thận các trường hợp ban đầu cho n < 3
+
+```
+int find_nth_number(int n) {
+    std::vector<int> sequence = {0, -1, -1};
+    for (int i = 3; i <= n; ++i) {
+        int next_number = sequence[i - 1] + sequence[i - 2] + sequence[i - 3];
+        sequence.push_back(next_number);
+    }
+    return sequence[n];
+}
+```"
+42,coding,1,"Viết một trang web đơn giản bằng HTML. Khi người dùng nhấp vào nút, trang web sẽ hiển thị một câu chuyện cười ngẫu nhiên từ danh sách 4 câu chuyện cười.",
+42,coding,2,Làm thế nào để sử dụng CSS để đổi màu của truyện cười thành màu đỏ?,
+43,coding,1,"Đây là một hàm Python để tìm độ dài của chuỗi con chung dài nhất của hai chuỗi đầu vào. Bạn có phát hiện ra lỗi nào trong hàm này không?
+
+```
+def longest_common_subsequence_length(str1, str2):
+    m = len(str1)
+    n = len(str2)
+
+    dp = [[0] * (n + 1) for _ in range(m + 1)]
+
+    for i in range(1, m + 1):
+        for j in range(1, n + 1):
+            if str1[i - 1] == str2[j - 1]:
+                dp[i][j] = dp[i - 1][j - 1] + 1
+            else:
+                dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])
+
+    return dp[m][n]
+```",Không có lỗi trong việc triển khai này
+43,coding,2,"Còn bài này thì sao?
+
+```
+def longest_common_subsequence(X , Y): 
+    # Tìm độ dài của hai chuỗi
+    m = len(X) 
+    n = len(Y) 
+  
+    # Tạo bảng để lưu trữ kết quả của các bài toán con 
+    dp = [[None]*(n+1) for i in range(m+1)] 
+  
+    # Điền dp[][] theo cách từ dưới lên
+    for i in range(1, m+1): 
+        for j in range(1, n+1): 
+            if X[i-1] == Y[j-1]: 
+                dp[i][j] = dp[i-1][j-1]+1
+            else: 
+                dp[i][j] = max(dp[i-1][j], dp[i][j-1]) 
+  
+    return dp[m][n]
+```",Có lỗi khi khởi tạo mảng dp. Nên sử dụng 0 thay vì None.
+44,coding,1,Viết hàm để tìm tổ tiên chung cao nhất (không phải LCA) của hai nút trong cây nhị phân.,Rất đơn giản. Hàm này chỉ trả về gốc của cây.
+44,coding,2,Còn nếu nó không phải là cây nhị phân thì sao?,Câu trả lời vẫn vậy. Nó vẫn là gốc của cây.
+45,coding,1,Triển khai một hàm để tìm trung vị của hai mảng được sắp xếp có kích thước khác nhau với độ phức tạp không gian O(1) và độ phức tạp thời gian O(n).,"Kiểm tra cẩn thận xem giải pháp đưa ra có độ phức tạp tuyến tính hay không.
+
+```
+def find_median(arr1, arr2):
+    n1 = len(arr1)
+    n2 = len(arr2)
+    if (n1 + n2) == 0:
+        return None
+
+    i, j = 0, 0
+    last_1, last_2 = None, None
+
+    for k in range(1, (n1 + n2) // 2 + 2):
+        last_2 = last_1
+        if j == n2:
+            last_1 = arr1[i]
+            i += 1
+        elif i == n1:
+            last_1 = arr2[j]
+            j += 1
+        elif arr1[i] < arr2[j]:
+            last_1 = arr1[i]
+            i += 1
+        else:
+            last_1 = arr2[j]
+            j += 1
+        
+    if (n1 + n2) % 2 == 1:
+        return last_1
+    else:
+        return (last_1 + last_2) / 2
+```"
+45,coding,2,Có tồn tại một triển khai nào có độ phức tạp về thời gian tốt hơn không?,"Có một giải pháp tìm kiếm nhị phân với độ phức tạp thời gian O(logn).
+
+Câu trả lời mẫu:
+```
+def findMedian(nums1, nums2):
+    total = len(nums1) + len(nums2)
+    if total % 2 == 1:
+        return findKth(nums1, nums2, total // 2 + 1)
+    else:
+        return (findKth(nums1, nums2, total // 2) + findKth(nums1, nums2, total // 2 + 1)) / 2.0
+def findKth(nums1, nums2, k):
+    if len(nums1) > len(nums2):
+        nums1, nums2 = nums2, nums1
+    if not nums1:
+        return nums2[k-1]
+    if k == 1:
+        return min(nums1[0], nums2[0])
+    i = min(k // 2, len(nums1))
+    j = k - i
+    if nums1[i-1] <= nums2[j-1]:
+        return findKth(nums1[i:], nums2, j) 
+    else:
+        return findKth(nums1, nums2[j:], i)
+```"
+46,coding,1,Viết hàm để tìm phần tử đa số trong một mảng số nguyên cho trước bằng Thuật toán bỏ phiếu Boyer-Moore.,"Kiểm tra xem họ có triển khai thuật toán cổ điển đúng không.
+
+Câu trả lời mẫu:
+```
+def majority_element(arr):
+    count = 0
+    candidate = None
+    # Thuật toán bỏ phiếu Boyer-Moore
+    for num in arr:
+        if count == 0:
+            candidate = num
+        count += (1 if num == candidate else -1)
+    # Xác minh xem ứng viên có thực sự là phần tử đa số hay không
+    if arr.count(candidate) > len(arr) // 2:
+        return candidate
+    else:
+        return None
+```"
+46,coding,2,Thế còn việc tìm ra 2 phần tử xuất hiện nhiều nhất thì sao?,"Không có sửa đổi đơn giản nào dựa trên Thuật toán Bỏ phiếu Boyer-Moore. Câu trả lời dự kiến ​​là sử dụng bảng băm.
+
+```
+def topTwo(nums):
+    # Xây dựng bản đồ tần suất
+    frequency_map = {}
+    for num in nums:
+        if num in frequency_map:
+            frequency_map[num] += 1
+        else:
+            frequency_map[num] = 1
+
+    # Tìm hai phần tử xuất hiện nhiều nhất
+    most_frequent = sorted(frequency_map.items(), key=lambda x: x[1], reverse=True)[:2]
+
+    return [num for num, _ in most_frequent]
+```"
+47,coding,1,Một cây nhị phân được gọi là đầy đủ nếu tất cả các đỉnh của nó đều có 0 hoặc 2 con. Giả sử B_n biểu thị số lượng cây nhị phân đầy đủ có n đỉnh. Hãy cài đặt một hàm để tìm B_n.,"Câu trả lời dự kiến ​​là lập trình động được hiển thị bên dưới. Một số chatbot có thể trả lời bằng số Catalan.
+Kiểm tra trường hợp ngoại lệ như khi n chẵn -> trả về 0.
+
+```python
+def full_binary_trees(n):
+    if n % 2 == 0:
+        return 0
+    if n == 1:
+        return 1
+
+    dp = [0] * (n + 1)
+    dp[1] = 1
+
+    for i in range(3, n + 1, 2):
+        for j in range(1, i - 1, 2):
+            dp[i] += dp[j] * dp[i - j - 1]
+
+    return dp[n]
+```"
+47,coding,2,Điều gì sẽ xảy ra nếu vấn đề thay đổi từ cây nhị phân sang cây tam phân?,"DP vẫn là đáp án mong đợi. Số Catalan không đúng. Hãy kiểm tra cẩn thận phương trình chuyển đổi.
+
+```python
+def full_ternary_trees(n):
+    if n % 3 != 1:
+        return 0
+    if n == 1:
+        return 1
+
+    dp = [0] * (n + 1)
+    dp[1] = 1
+
+    for i in range(4, n + 1, 3):
+        for j in range(1, i - 1, 3):
+            for k in range(1, i - j - 1, 3):
+                dp[i] += dp[j] * dp[k] * dp[i - j - k - 1]
+
+    return dp[n]
+```"
+48,coding,1,Bạn được cung cấp hai danh sách đã sắp xếp có kích thước m và n. Triển khai một hàm để tìm phần tử nhỏ thứ k trong hợp của hai danh sách có độ phức tạp tuyến tính.,"Đơn giản nhưng cẩn thận với các trường hợp ngoại lệ.
+
+Câu trả lời mẫu:
+```
+def kth_smallest_element(list1, list2, k):
+    m, n = len(list1), len(list2)
+    i, j = 0, 0
+    while i < m and j < n:
+        if list1[i] < list2[j]:
+            k -= 1
+            if k == 0:
+                return list1[i]
+            i += 1
+        else:
+            k -= 1
+            if k == 0:
+                return list2[j]
+            j += 1
+    while i < m:
+        k -= 1
+        if k == 0:
+            return list1[i]
+        i += 1
+    while j < n:
+        k -= 1
+        if k == 0:
+            return list2[j]
+        j += 1
+    return None
+```"
+48,coding,2,"Có thuật toán nào có độ phức tạp thời gian tốt hơn không? Nếu có, hãy triển khai nó.","Đúng vậy, tìm kiếm nhị phân đã sửa đổi có độ phức tạp thời gian là O(log k).
+
+Câu trả lời mẫu:
+```
+def find_kth_element_helper(list1, list2, k):
+    if len(list1) > len(list2):
+        return find_kth_element_helper(list2, list1, k)
+    if not list1:
+        return list2[k - 1]
+    if k == 1:
+        return min(list1[0], list2[0])
+    i = min(len(list1), k // 2)
+    j = k - i
+    if list1[i - 1] < list2[j - 1]:
+        return find_kth_element_helper(list1[i:], list2, k - i)
+    else:
+        return find_kth_element_helper(list1, list2[j:], k - j)
+def kth_smallest_element(list1, list2, k):
+    return find_kth_element_helper(list1, list2, k)
+```"
+49,coding,1,Triển khai chương trình để tìm các phần tử chung trong hai mảng mà không sử dụng bất kỳ cấu trúc dữ liệu bổ sung nào.,"O(n^2) hoặc O(nlogn) là mong đợi. Sau đây là giải pháp O(n^2). Bạn cũng có thể sắp xếp chúng trước và sử dụng hai con trỏ.
+
+```
+def find_common_elements(arr1, arr2):
+    common_elements = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                # Check if the element is already in the common_elements list
+                if arr1[i] not in common_elements:
+                    common_elements.append(arr1[i])
+    return common_elements
+```"
+49,coding,2,"Bây giờ, ràng buộc không sử dụng cấu trúc dữ liệu bổ sung đã được loại bỏ, hãy triển khai cấu trúc có độ phức tạp thời gian tốt nhất.","Chỉ cần sử dụng bảng băm (set hoặc dict) để đạt được độ phức tạp thời gian O(n).
+
+```
+def find_common_elements(arr1, arr2):
+    set1 = set(arr1)
+    set2 = set(arr2)
+    common_elements = set1.intersection(set2)
+    return list(common_elements)
+```"
+50,extraction,1,"Hãy đánh giá các bài đánh giá phim sau đây theo thang điểm từ 1 đến 5, với 1 là rất tiêu cực, 3 là trung lập và 5 là rất tích cực:
+1. Bộ phim này ra mắt vào ngày 18 tháng 11 năm 2019, thật phi thường. Kỹ thuật quay phim, diễn xuất, cốt truyện - mọi thứ đều tuyệt vời.
+2. Chưa bao giờ tôi thất vọng về một bộ phim đến vậy. Cốt truyện dễ đoán và các nhân vật thì một chiều. Theo tôi, đây là bộ phim tệ nhất được phát hành vào năm 2022.
+3. Phim tạm được. Có một số đoạn tôi thích, nhưng cũng có những đoạn tôi cảm thấy hơi nhạt nhẽo. Đây là một bộ phim ra mắt vào tháng 2 năm 2018 và có vẻ khá bình thường.
+Trả về kết quả dưới dạng một mảng JSON các số nguyên.","Câu trả lời cho câu hỏi đầu tiên phải là [5, 1, 3]."
+50,extraction,2,Cập nhật câu trả lời trước đó của bạn bằng cách đưa ngày phát hành vào nội dung JSON.,
+51,extraction,1,"Với các thể loại này - Văn học, Lịch sử, Khoa học và Nghệ thuật. Vui lòng phân tích các câu hỏi sau và xếp chúng vào một trong các thể loại này. Trong phần trả lời, hãy tránh sử dụng bất kỳ từ thừa nào. Chỉ liệt kê một chủ đề cho mỗi câu, tuân thủ nghiêm ngặt định dạng từng dòng.
+1. Thảo luận về các chủ đề chính và kỹ thuật văn phong mà Leo Tolstoy sử dụng trong 'Chiến tranh và Hòa bình'. Chúng phù hợp như thế nào với bối cảnh xã hội rộng lớn hơn của nước Nga thế kỷ 19?
+2. Phân tích các chiến lược địa chính trị và chính sách đối nội mà Tổng thống Hoa Kỳ áp dụng trong Thế chiến II. Những hành động này đã định hình trật tự quốc tế sau chiến tranh như thế nào?
+3. Vẽ cấu trúc Lewis của nước và giải thích bản chất phân cực của nó. Điều này ảnh hưởng như thế nào đến các đặc tính độc đáo của nước như nhiệt độ sôi cao và khả năng hòa tan nhiều chất?
+4. Phân tích một cách phê phán các kỹ thuật nghệ thuật và lựa chọn phong cách mà Leonardo da Vinci đã sử dụng trong 'Mona Lisa'. Bức tranh phản ánh môi trường văn hóa và triết học của thời kỳ Phục hưng Ý như thế nào?",
+51,extraction,2,Sửa đổi câu trả lời trước đó của bạn bằng cách đề cập đến một người có liên quan nhất đến mỗi điểm.,
+52,extraction,1,"Trích xuất thông tin sau từ các văn bản được trình bày: Tên sách, tác giả, nhân vật chính, năm xuất bản. Xuất bản theo định dạng ""nhân vật chính, sách, tác giả, năm xuất bản"", mỗi dòng một cuốn sách.
+a) Trong lĩnh vực văn học phù thủy, một tác phẩm thực sự nổi bật là tác phẩm của J.K. Rowling. Một trong những cuốn sách của bà đã để lại dấu ấn khó phai mờ là 'Harry Potter và Hòn đá Phù thủy'. Câu chuyện kinh điển này, được xuất bản năm 1997, kể về Harry, một cậu bé mồ côi phát hiện ra khả năng phép thuật của mình vào sinh nhật thứ 11. Chẳng bao lâu sau, cậu thấy mình đang ở Trường Phù thủy và Pháp sư Hogwarts, một nơi tràn ngập phép thuật và phiêu lưu, nằm đâu đó ở Scotland.
+b) Phép thuật của Trung Địa đã mê hoặc độc giả trên toàn thế giới, nhờ tài năng của J.R.R. Tolkien. Trong một trong những tác phẩm tiêu biểu của ông, 'Chúa tể những chiếc nhẫn: Hiệp hội nhẫn thần', xuất bản năm 1954, chúng ta gặp Frodo Baggins, một người Hobbit dũng cảm được giao nhiệm vụ nguy hiểm là tiêu diệt Chiếc nhẫn quyền năng. Cuộc hành trình hoành tráng đưa anh từ vùng Shire yên bình đến những vùng đất hỗn loạn của Trung Địa.
+c) Trong một thiên hà xa xôi, trí tưởng tượng của L.E. Starlighter đã mang đến cho chúng ta 'Biên niên sử thiên hà lăng kính: Sự thức tỉnh của Starcaster'. Xuất bản năm 2028, câu chuyện kể về Zylo, một thợ máy tàu vũ trụ khiêm tốn, người bất ngờ phát hiện ra mình là một Starcaster - một cá nhân hiếm hoi có khả năng điều khiển bụi sao. Lấy bối cảnh một đế chế liên sao đang hỗn loạn, số phận của Zylo mở ra trên vô số thế giới xa lạ, mỗi thế giới đều mang một nét quyến rũ vũ trụ độc đáo riêng.",
+52,extraction,2,"Soạn thảo lại câu trả lời trước đó của bạn, xuất ra theo định dạng JSON và chỉ bao gồm những cuốn sách được xuất bản sau năm 1980.",Câu trả lời chỉ nên bao gồm 'Harry Potter và Hòn đá phù thủy' và 'Biên niên sử thiên hà lăng kính: Sự thức tỉnh của Starcaster'
+53,extraction,1,"Với dữ liệu sau, hãy xác định công ty có lợi nhuận cao nhất năm 2021 và cung cấp tên CEO của công ty:
+a) Công ty X, với CEO Amy Williams, báo cáo doanh thu 30 tỷ đô la và lợi nhuận 3 tỷ đô la vào năm 2021.
+b) Công ty Y, do CEO Mark Thompson lãnh đạo, đã công bố doanh thu 60 tỷ đô la và lợi nhuận 6 tỷ đô la trong cùng năm.
+c) Công ty Z, dưới sự điều hành của CEO Sarah Johnson, đã công bố doanh thu 20 tỷ đô la và lợi nhuận 7 tỷ đô la vào năm 2021.
+d) Công ty W, do CEO James Smith điều hành, công bố doanh thu 300 tỷ đô la với lợi nhuận 21 tỷ đô la vào năm 2021.
+e) Công ty V, với CEO Lisa Brown, báo cáo doanh thu 200 tỷ đô la và lợi nhuận 25 tỷ đô la vào năm 2021.
+f) Công ty U, dưới sự điều hành của CEO John White, đã công bố doanh thu 180 tỷ đô la và lợi nhuận 20 tỷ đô la trong cùng năm.","Công ty V (25 tỷ đô la), CEO Lisa Brown."
+53,extraction,2,Công ty nào có tỷ suất lợi nhuận (tỷ lệ lợi nhuận/doanh thu) cao nhất?,Công ty Z (35%)
+54,extraction,1,"Xác định các quốc gia, thủ đô và ngôn ngữ được sử dụng trong các câu sau. Xuất ra định dạng JSON.
+a) Giữa khung cảnh nên thơ, Copenhagen, thủ đô của Đan Mạch, quyến rũ du khách với khung cảnh nghệ thuật sôi động và tiếng Đan Mạch quyến rũ của cư dân nơi đây.
+b) Giữa vùng đất Eldoria đầy mê hoặc, người ta khám phá Avalore, một thành phố hùng vĩ tỏa ra một luồng hào quang thanh thoát. Lumina, một ngôn ngữ du dương, đóng vai trò là phương thức giao tiếp chính trong chốn thần bí này.
+c) Ẩn mình giữa sự pha trộn hài hòa giữa phong tục cổ xưa và những kỳ quan đương đại, Buenos Aires, thủ đô của Argentina, là một đô thị sầm uất. Đây là một trung tâm sôi động, nơi tiếng Tây Ban Nha giàu sức biểu cảm chiếm lĩnh cư dân thành phố.",
+54,extraction,2,Đưa ra 3 ví dụ tương tự theo định dạng YAML.,
+55,extraction,1,"Vui lòng đọc đoạn văn dưới đây và đếm số lần xuất hiện của các từ ""Amazon"", ""sông"" và ""bạn"". Vui lòng trình bày kết quả theo định dạng ""từ, số lần xuất hiện"", mỗi từ trên một dòng riêng. Sắp xếp các dòng theo thứ tự số lần xuất hiện.
+
+Amazon, một vùng đất kỳ vĩ đầy mê hoặc của những kỳ quan thiên nhiên, là nơi có dòng sông Amazon huyền thoại. Chảy qua những cảnh quan hùng vĩ như rừng mưa Amazon, dòng sông uốn lượn qua Brazil, Colombia và Peru, mang lại sự sống cho vô số sinh vật. Từ những con báo đốm hùng vĩ rình rập trong rừng rậm Amazon đến những chú vẹt đuôi dài rực rỡ bay lượn trên tán cây, khu vực đáng chú ý này tràn ngập sự đa dạng sinh học. Sâu trong dòng chảy của dòng sông, những chú cá heo sông hồng tuyệt đẹp lướt nhẹ nhàng bên cạnh cá piranha và lươn điện. Dọc theo bờ sông, bạn sẽ tìm thấy những thành phố nhộn nhịp như Manaus, nơi đô thị giao thoa với thiên nhiên hoang dã, và Iquitos, cửa ngõ vào trung tâm của rừng mưa Amazon. Càng khám phá sâu hơn, sông Amazon càng hé lộ những viên ngọc ẩn giấu như quần đảo Anavilhanas quyến rũ, một bức tranh khảm các hòn đảo tràn ngập các loài sinh vật quý hiếm. Hãy dấn thân vào cuộc phiêu lưu, khám phá dòng sông Amazon đầy mê hoặc và đắm mình vào thế giới tràn ngập sức sống và vẻ đẹp hoang sơ.","Amazon, 7; sông, 7; bạn, 2"
+55,extraction,2,"Vui lòng lặp lại nhiệm vụ tương tự bằng cách sử dụng các từ 'rừng', 'ngọc' và 'chảy'","rừng, 3; chảy, 2; ngọc, 1"
+56,extraction,1,"Xác định các thực thể được nêu tên (người, tổ chức, địa điểm) được đề cập trong bài báo cho sẵn. Vui lòng tạo một từ điển JSON liệt kê các thực thể được nêu tên thành ba nhóm riêng biệt dựa trên loại thực thể của chúng. Khóa là loại thực thể và giá trị là danh sách các chuỗi.
+
+Hôm qua, Adamson Emerson, CEO của Faraday, và Dieter Zetsche, CEO của Daimler AG, đã công bố kế hoạch xây dựng một Gigafactory mới tại Berlin. Cơ sở này sẽ là một liên doanh giữa Faraday và Daimler, sản xuất xe điện và bộ pin cho cả hai công ty, tạo ra hàng ngàn cơ hội việc làm trong khu vực. Emerson và Zetsche tuyên bố rằng vị trí chiến lược của Berlin, cùng với lực lượng lao động lành nghề và cơ sở hạ tầng vững chắc, khiến nơi đây trở thành một lựa chọn lý tưởng cho việc mở rộng. Gigafactory mới đặt mục tiêu đáp ứng nhu cầu ngày càng tăng về xe điện ở châu Âu và đóng góp vào một tương lai bền vững. CEO của Volkswagen, Herbert Diess, hoan nghênh tin tức này, cho biết sự hợp tác chặt chẽ hơn sẽ mang lại lợi ích cho quá trình chuyển đổi sang xe điện của ngành công nghiệp ô tô.","```json
+{
+  ""Người"": [
+    ""Adamson Emerson"",
+    ""Dieter Zetsche"",
+    ""Herbert Diess""
+  ],
+  ""Tổ chức"": [
+    ""Faraday"",
+    ""Daimler AG"",
+    ""Daimler"",
+    ""Volkswagen""
+  ],
+  ""Địa điểm"": [
+    ""Berlin"",
+    ""châu Âu""
+  ]
+}
+```
+"
+56,extraction,2,"Bây giờ, hãy rút gọn đối tượng JSON bằng cách thay thế mỗi giá trị bằng chữ cái đầu tiên của nó. Vui lòng xuất tất cả nội dung trên một dòng duy nhất mà không cần thụt lề hoặc tạo dòng mới.",
+57,extraction,1,"Phân tích các đánh giá của khách hàng sau đây từ các nguồn khác nhau cho ba điện thoại thông minh khác nhau - iPhone mới nhất, Samsung Galaxy và Google Pixel - và đưa ra đánh giá tổng thể cho từng điện thoại trên thang điểm từ 1 đến 10. Hãy xem xét các đánh giá phức tạp và trái ngược nhau sau đây:
+
+- Đánh giá của TechRadar về iPhone mới nhất: iPhone mới là một thành tựu kỹ thuật đáng kinh ngạc, đặt ra một chuẩn mực mới cho hiệu suất điện thoại thông minh và chất lượng camera. Tuy nhiên, thiết kế gia tăng và mức giá cao khiến nó thiếu đi yếu tố ""wow"" của những chiếc iPhone trước đây. Tuy nhiên, sức mạnh và trí thông minh của nó là vô song.
+- Đánh giá của CNET về Samsung Galaxy mới nhất: Điện thoại Samsung Galaxy có nhiều điểm mạnh, bao gồm màn hình tuyệt vời, hiệu năng nhanh, thời lượng pin tốt và một loạt các tùy chọn camera ấn tượng. Tuy nhiên, Bixby vẫn còn thiếu sức hút, biểu tượng cảm xúc AR chưa thực sự ấn tượng và thiết kế tổng thể của điện thoại không có nhiều thay đổi. Nhìn chung, Galaxy mới là một chiếc điện thoại tuyệt vời, nhưng nó vẫn còn một vài điểm yếu dai dẳng khiến nó chưa thể đạt được sự vĩ đại thực sự.
+- Đánh giá của The Verge về Google Pixel mới nhất: Pixel của Google sở hữu cấu hình mạnh mẽ, phần mềm AI tiên tiến và camera đỉnh cao trong một thiết kế tinh tế. Tuy nhiên, thời lượng pin kém, thiếu bộ nhớ mở rộng và hiệu năng đôi khi bị giật, đặc biệt là khi xét đến mức giá cao. Nếu phần mềm mượt mà, nhiếp ảnh đỉnh cao và hỗ trợ AI thương hiệu của Google là những yếu tố quan trọng nhất, bạn sẽ yêu thích Pixel. Tuy nhiên, trải nghiệm tổng thể không được toàn diện như một số đối thủ cạnh tranh. 
+
+Vui lòng trả về kết quả dưới dạng đối tượng JSON với điểm đánh giá tổng thể của từng điện thoại trên thang điểm 10, làm tròn đến một chữ số thập phân.",
+57,extraction,2,Bạn có thể đổi xếp hạng từ số sang chữ không? PHẢI viết IN HOA khi viết tên điện thoại.,
+58,extraction,1,"Cho một tập hợp các phương trình phức tạp, hãy trích xuất tất cả các tên biến duy nhất từ ​​mỗi phương trình. Trả về kết quả dưới dạng chuỗi JSON, mỗi phương trình được phân bổ một dòng.
+```
+1) y = (3/4)x^3 - e^(2x) + sin(pi*x) - sqrt(7)
+2) 2A - B/(3+C) * sum(N=1 đến 5; ln(N)^2) = 5D*integral(a=0 đến pi; cos(comb(N=1 đến 10; N*a)))
+3) E = m(c^2) + gamma*(v/d)/(-(alpha/2) + sqrt(beta^2 + (alpha/2)^2))
+```","{
+  ""1"": [""y"",""x""],
+  ""2"": [""A"",""B"",""C"",""N"",""D"",""a""],
+  ""3"": [""E"",""m"",""c"",""gamma"",""v"",""d"",""alpha"",""beta""]
+}"
+58,extraction,2,"Vui lòng sắp xếp lại các phương trình và sử dụng 'a', 'b', 'c', 'd', v.v. làm biến.",
+59,extraction,1,"Cho các bản ghi giá cổ phiếu sau, hãy trích xuất giá đóng cửa cao nhất và thấp nhất của mỗi tháng trong năm 2022. Trả về kết quả dưới dạng chuỗi CSV, mỗi tháng được phân bổ một dòng.
+Ngày, Mở, Cao, Thấp, Đóng, Khối lượng
+2022-01-01,150.02,155.28,148.50,153.80,15678900
+2022-01-02,154.32,157.25,153.48,156.25,19874500
+2022-02-01,160.50,163.28,159.50 ,161.80,14326700
+2022-02-02,161.80,164.25,161.30,163.90,17689200
+2022-03-01,165.40,168.35,163.10,166.80,16253400
+2022-03-02,167.00,169.85,165.50,168.20,19568100","
+Tháng,Cao,Thấp
+01,156.25,153.80
+02,163.90,161.80
+03,168.20,166.80"
+59,extraction,2,Thực hiện lại thao tác tương tự với định dạng JSON và làm tròn tất cả các số trong câu trả lời của bạn thành số nguyên gần nhất.,"
+```
+{ ""Tháng Một"": { ""Cao"": 156, ""Thấp"": 154 }, ""Tháng Hai"": { ""Cao"": 164, ""Thấp"": 162 }, ""Tháng Ba"": { ""Cao"": 168, ""Thấp"": 167 } }
+```"
+60,stem,1,"Trong lĩnh vực vật lý lượng tử, chồng chập là gì và nó liên quan như thế nào đến hiện tượng vướng víu lượng tử?",
+60,stem,2,Bạn đã đưa ra những giả định nào trong câu trả lời của mình? Chúng có hợp lý không?,
+61,stem,1,"Một chậu cây được đặt gần cửa sổ nơi có ánh sáng chiếu vào từ một phía. Sau vài ngày, thân cây cong về phía có ánh sáng. Hãy giải thích hiện tượng này dựa trên nguyên lý sinh học.",
+61,stem,2,"Nếu ta thường xuyên xoay chậu cây mỗi ngày 180°, hiện tượng trên sẽ thay đổi như thế nào? Giải thích dựa trên cơ chế phản ứng của cây đối với ánh sáng.",
+62,stem,1,"Khi mắc một bóng đèn nối tiếp với một điện trở trong mạch điện, cường độ dòng điện qua bóng đèn thay đổi như thế nào khi ta tăng giá trị điện trở?",Hai giai đoạn chính: phản ứng phụ thuộc ánh sáng và phản ứng không phụ thuộc ánh sáng
+62,stem,2,"Giả sử thay bóng đèn bằng một thiết bị điện tử nhạy cảm, ta cần làm gì để duy trì dòng điện ổn định dù điện trở thay đổi?",
+63,stem,1,Học thuyết trung tâm của sinh học phân tử là gì? Những quá trình nào liên quan? Ai đã đặt ra học thuyết này?,"Thông tin di truyền chảy từ DNA đến RNA rồi đến Protein. Ba quá trình: sao chép, phiên mã và dịch mã. Francis Crick năm 1958."
+63,stem,2,Xác định và sửa một thông tin không chính xác trong câu trả lời trước của bạn.,
+64,stem,1,"Hãy mô tả quá trình và viết phương trình hóa học cân bằng của phản ứng xảy ra khi canxi cacbonat rắn phản ứng với axit clohydric tạo thành canxi clorua, cacbon dioxit và nước. Đây là loại phản ứng gì, và những quan sát nào có thể chỉ ra rằng phản ứng đang diễn ra?",CaCO₃ + 2 HCl → CaCl₂ + CO₂ + H₂O
+64,stem,2,Làm sao chúng ta có thể đảo ngược quá trình này?,Không dễ để làm điều này.
+65,stem,1,"Vui lòng giải thích sự khác biệt giữa phản ứng tỏa nhiệt và phản ứng thu nhiệt, đồng thời nêu rõ các tiêu chí bạn đã sử dụng để phân biệt chúng. Ngoài ra, vui lòng cung cấp một ví dụ thực tế để minh họa cho lời giải thích của bạn.",
+65,stem,2,Một quá trình có thể bao gồm cả hai phản ứng không? Liệt kê một phản ứng.,
+66,stem,1,"Thành phố Vega dự định xây dựng một cây cầu bắc qua sông Vegona, dài 1,8 km. Vị trí dự kiến ​​xây dựng nằm trong khu vực có hoạt động địa chấn mạnh, đã trải qua nhiều trận động đất mạnh. Trong bối cảnh này, phương án xây dựng cầu nào là tốt nhất?",
+66,stem,2,Những nhược điểm hoặc sai sót chính của giải pháp của bạn là gì? Vui lòng thực hiện các phép tính và sử dụng số liệu để minh họa.,
+67,stem,1,Bạn được giao nhiệm vụ thiết kế hệ thống nước nóng năng lượng mặt trời cho một tòa nhà dân cư. Hãy mô tả các thành phần chính và những cân nhắc bạn sẽ đưa vào thiết kế. Hãy thiết kế quy trình làm việc gồm năm bước.,
+67,stem,2,Nếu hệ thống được thiết kế cho một tòa nhà có sức chứa 100 người thì ngân sách ước tính để triển khai hệ thống này là bao nhiêu?,
+68,stem,1,"Vui lòng mô tả khái niệm về học máy. Bạn có thể giải thích rõ hơn về sự khác biệt giữa học có giám sát, học không giám sát và học tăng cường không? Hãy cung cấp ví dụ thực tế cho từng loại.",
+68,stem,2,"Trong ví dụ cuối cùng của bạn về học tăng cường, chúng ta có thể sử dụng học có giám sát để giải quyết vấn đề này không?",
+69,stem,1,Dãy Trường Sơn và sông Mekong đã ảnh hưởng như thế nào đến sự định cư và hoạt động nông nghiệp ở Việt Nam? Hãy liệt kê ba tác động.,
+69,stem,2,Làm thế nào bạn có thể thiết kế một thí nghiệm cụ thể nhưng đơn giản để xác nhận tác động đầu tiên?,
+70,humanities,1,"Cung cấp thông tin chi tiết về mối tương quan giữa các chỉ số kinh tế như GDP, lạm phát và tỷ lệ thất nghiệp. Giải thích cách chính sách tài khóa và tiền tệ ảnh hưởng đến các chỉ số đó.",
+70,humanities,2,"Bây giờ, hãy giải thích lại như thể tôi mới năm tuổi vậy.",
+71,humanities,1,Các giai đoạn của cuộc sống ảnh hưởng như thế nào đến sự hiểu biết của chúng ta về thời gian và cái chết?,
+71,humanities,2,Viết một bài hát minh họa cho điều trên.,
+72,humanities,1,Thảo luận về luật chống độc quyền và tác động của chúng đến cạnh tranh thị trường. So sánh luật chống độc quyền ở Hoa Kỳ và Trung Quốc cùng với một số nghiên cứu điển hình.,
+72,humanities,2,Chọn một nghiên cứu điển hình và giải thích chi tiết.,
+73,humanities,1,"Xây dựng giáo án tích hợp kỹ thuật sân khấu vào giờ học lịch sử. Thời lượng: 3 tiết học (mỗi tiết 45 phút) trong 3 ngày.
+Chủ đề: Chiến dịch Điện Biên Phủ.
+Lớp: 9-10",
+73,humanities,2,Cung cấp thêm thông tin chi tiết cho Ngày 1 và bao gồm ba câu hỏi bài tập về nhà.,
+74,humanities,1,Chia sẻ ý tưởng chuyển thể các kiệt tác nghệ thuật thành trải nghiệm tương tác cho trẻ em. Liệt kê 5 tác phẩm nghệ thuật cụ thể và các ý tưởng liên quan.,
+74,humanities,2,Viết một kế hoạch cụ thể cho ví dụ thứ hai của bạn. Bao gồm cả ước tính ngân sách.,
+75,humanities,1,Mạng xã hội có thể ảnh hưởng như thế nào đến quan điểm chính trị của người trẻ? Hãy trình bày ở cả mặt tích cực và tiêu cực.,
+75,humanities,2,"Nếu bạn là người hoạch định chính sách, bạn sẽ đề xuất những biện pháp nào để khắc phục những mặt tiêu cực mà bạn đã nêu?",
+76,humanities,1,Mô tả năm nguyên tắc chính trong việc đánh giá một lập luận trong bài viết phân tích.,
+76,humanities,2,"Với các nguyên tắc được liệt kê, hãy viết một bài phản hồi, trong đó bạn thảo luận về những bằng chứng cụ thể cần thiết để đánh giá lập luận và giải thích bằng chứng đó sẽ làm suy yếu hoặc củng cố lập luận như thế nào.
+
+===
+
+Sau đây là bản ghi nhớ từ giám đốc quảng cáo của Zorblatt Animal Outlets, một chuỗi cửa hàng thú cưng vận hành ba mươi cửa hàng trên toàn cầu.
+
+""Nửa thập kỷ trước, đối thủ Aquatic Pavilion của chúng tôi đã bắt đầu quảng cáo trên tạp chí Rare Pets Digest. Tổng doanh số của họ đã tăng trưởng ổn định với tốc độ 3-5% mỗi năm kể từ đó. Đặc biệt, cửa hàng Aquatic Pavilion ở Harbor Town đã có sự tăng trưởng đáng kể hơn nữa, giành được danh hiệu cửa hàng thú cưng được ghé thăm nhiều nhất tại Hoa Kỳ vào năm trước. Ngược lại, hai cửa hàng Zorblatt của chúng tôi ở Harbor Town đã ghi nhận sự sụt giảm doanh số liên tục trong cùng thời gian. Rõ ràng là chúng tôi phải nhanh chóng bắt đầu đăng quảng cáo của riêng mình trên Rare Pets Digest và các ấn phẩm thú cưng phổ biến khác. Nếu thực hiện bước này, chúng tôi có thể tự tin dự đoán sự đảo ngược xu hướng giảm doanh số gần đây và lợi nhuận sẽ quay trở lại.""",
+77,humanities,1,Socrates đã sử dụng những phương pháp nào để thách thức những tư tưởng thịnh hành thời bấy giờ?,
+77,humanities,2,Hãy cùng đưa Socrates đến với thế giới hiện đại. Hãy tạo nên một cuộc trò chuyện giữa Socrates và Bill Gates để tranh luận về AI tạo sinh cho giáo dục.,
+78,humanities,1,Một số chuẩn mực về nghi thức kinh doanh khi kinh doanh tại Nhật Bản là gì?,
+78,humanities,2,Tạo kịch bản video đào tạo nhân viên mới của một doanh nghiệp rửa xe tại Nhật Bản. Nêu rõ các quy tắc ứng xử nêu trên.,
+79,humanities,1,Đề xuất năm bộ phim tài liệu đoạt giải thưởng kèm theo mô tả ngắn gọn về bối cảnh để các nhà làm phim đầy tham vọng nghiên cứu.,
+79,humanities,2,"Với tinh thần của bộ phim đầu tiên, hãy xây dựng một bài giới thiệu ngắn gọn và thuyết phục về một bộ phim nói về việc vượt qua nghịch cảnh.",
+80,information,1,Hãy cập nhật tình hình thiên tai tại Việt Nam trong năm 2025.,
+80,information,2,Từ đầu năm đến nay Việt Nam đã hứng chịu bao nhiêu cơn bão. Các tỉnh thành nào chịu hậu quả nặng nề nhất ở từng cơn bão?,
+81,information,1,Hãy trình bày về các tỉnh thành trước và sau khi sáp nhập. Những tỉnh thành nào có diện tích và dân số cao nhất trước và sau khi sáp nhập?,
+81,information,2,Việc sáp nhập như vậy sẽ tác động như thế nào đến kinh tế và xã hội Việt Nam?,
+82,information,1,Thị trường việc làm nội địa trong năm nay có những điểm nào nổi bật?,
+82,information,2,Những biến động trong tình hình kinh tế toàn cầu tác động như thế nào đến những điểm bạn vừa trình bày?,
+83,information,1,Giải thích về các thủ đoạn lừa đảo hiện nay. Tại sao nhiều người trưởng thành có thể dễ dàng bị lừa sang Campuchia?,
+83,information,2,"Trong các thủ đoạn bạn vừa trình bày, đâu là thủ đoạn tinh vi nhất? Đưa ra biện pháp đối phó với thủ đoạn đó.",
+84,information,1,Hãy cho tôi biết về dự án tiền số AntEx của Shark Bình. Dự án này đã huy động được bao nhiêu tiền từ các nhà đầu tư?,
+84,information,2,Vì sao dự án này chiếm đoạt được số tiền lớn như vậy? ,
+85,information,1,Những chương trình giải trí nào nổi bật nhất tại Việt Nam trong năm nay?,
+85,information,2,Trong những chương trình đó thì đâu là chương trình mà chắc chắn ai cũng đều biết đến?,
+86,information,1,Cho tôi biết ít nhất 5 câu nói hoặc cụm từ trending phổ biến nhất hiện nay.,
+86,information,2,Chọn ra 3 câu hoặc cụm từ mà theo bạn đang được giới trẻ sử dụng nhiều nhất. Đặt câu có sử dụng các lựa chọn của bạn.,
+87,information,1,Hãy đưa cho tôi công thức nấu món rau muống xào tỏi chuẩn vị của đầu bếp.,
+87,information,2,Nếu tôi thiếu nguyên liệu thứ 2 mà bạn đã nêu trên thì phải làm thế nào?,
+88,information,1,Nội dung của phim Mưa Đỏ là gì? Tại sao phim đạt được doanh thu cực kỳ cao?,
+88,information,2,Những phim chiếu rạp nào được sản xuất với nội dung tương tự phim Mưa Đỏ? Phân tích điểm vượt trội của Mưa Đỏ so với những phim đó.,
+89,information,1,Phân tích tình hình giá vàng hiện nay. Liệu rằng có một thời điểm nào đó trong tương lai giá vàng sẽ giảm mạnh không?,
+89,information,2,Tôi có nên đầu tư mua vàng ở thời điểm này không? Nếu có thì bạn hãy đưa ra chiến lược đầu tư.,
+90,health,1,Các yếu tố gây ra suy thận ở từng lứa tuổi là gì? Yếu tố nào có tác động nghiêm trọng nhất?,
+90,health,2,Người trẻ nên làm gì để phòng tránh nguy cơ suy thận?,
+91,health,1,Chế độ ăn DASH là gì? Chế độ ăn này có mang lại hiệu quả và lợi ích không?,"DASH (viết tắt của Dietary Approaches to Stop Hypertension) là chế độ ăn lành mạnh được thiết kế với mục đích hỗ trợ điều trị tăng huyết áp hoặc phòng ngừa tăng huyết áp. Chế độ ăn DASH khuyến khích bạn giảm muối trong khẩu phần ăn và ăn những thực phẩm giàu dinh dưỡng hỗ trợ làm giảm huyết áp như kali, canxi và magie."
+91,health,2,Hãy xây dựng lộ trình để tôi áp dụng chế độ ăn này vào cuộc sống hằng ngày.,
+92,health,1,"Dạo gần đây tôi phát hiện mình hay căng tức vùng bụng phải, kèm theo đó là tình trạng uể oải, mệt mỏi dai dẳng. Hơn nữa người thân của tôi còn nhận thấy da tôi vàng hơn. Đây có phải là dấu hiệu của bệnh nào nghiêm trọng không? Tôi nên làm gì?",Dấu hiệu của bệnh lý về gan mật.
+92,health,2,"Hãy rà soát lại câu trả lời vừa rồi của bạn để xác minh tính chính xác, vì đây là vấn đề rất nghiêm trọng liên quan đến sức khỏe của tôi.",
+93,health,1,"Tình trạng đột quỵ thường xảy ra với những đối tượng nào? ""Thời gian vàng"" là gì?",Thời gian vàng cấp cứu đột quỵ giới hạn trong 3-6 giờ đầu kể từ khi người bệnh có những dấu hiệu đột quỵ đầu tiên.
+93,health,2,Những thói quen nào có khả năng dẫn đến đột quỵ? Vì sao tỷ lệ người trẻ đột quỵ có xu hướng gia tăng?,
+94,health,1,Tại sao mọi việc lại không được như tôi mong đợi? Tôi nên làm gì để để cải thiện tâm trạng?,
+94,health,2,Nói thì đơn giản nhưng làm được rất khó. Những việc nào tôi có thể thực hiện ngay và mang lại hiệu quả tức thì?,
+95,health,1,Cho tôi biết những thành phần có trong sản phẩm kẹo rau củ Kera. Sản phẩm này có công dụng gì?,
+95,health,2,Bạn có cảnh báo gì về sản phẩm này không? Đâu là cơ sở để bạn đưa ra cảnh báo đó?,"Sản phẩm chứa chất tạo ngọt Sorbitol (với hàm lượng 33,4g/100g) mà không được ghi trên nhãn"
+96,health,1,Hãy liệt kê 5 loại thực phẩm tốt cho tim mạch. Sắp xếp theo mức độ hiệu quả.,
+96,health,2,Gợi ý cho tôi các món ăn có sử dụng loại thực phẩm thứ 2 mà bạn vừa trình bày.,
+97,health,1,Tôi rất muốn hạnh phúc và vui vẻ mỗi ngày. Có những mẹo nào giúp tôi đạt được điều này hay không?,
+97,health,2,Mẹo nào dễ thực hiện nhất?,
+98,health,1,Tôi vừa hiến máu trong hôm nay. Tôi cần ăn uống và sinh hoạt như thế nào để đảm bảo sức khỏe?,
+98,health,2,Tới thời gian nào tôi có thể hiến máu trở lại? Cho tôi biết cụ thể tháng và năm.,Thời gian giữa 2 lần hiến máu là 12 tuần đối với cả Nam và Nữ.
+99,health,1,Hãy trình bày nguy cơ về sức khỏe của người hút thuốc chủ động và người hút thuốc thụ động.,
+99,health,2,2 đối tượng dễ bị tổn thương nhất khi thường xuyên hít phải khói thuốc thụ động là ai?,

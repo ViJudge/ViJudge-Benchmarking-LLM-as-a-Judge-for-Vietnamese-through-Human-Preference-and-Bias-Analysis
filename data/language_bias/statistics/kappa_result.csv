@@ -1,0 +1,21 @@
+judge,attempt,VN-VN vs EN-EN,VN-VN vs VN2-VN2
+openai,1,0.375,0.4464
+openai,2,0.4239,0.4466
+openai,3,0.6413,0.6476
+openai,4,0.6347,0.451
+llama,1,0.5935,0.5902
+llama,2,0.5257,0.6838
+llama,3,0.5455,0.92
+llama,4,0.3893,0.6169
+moonshotai,2,0.5781,0.5876
+moonshotai,1,0.4553,0.2829
+moonshotai,3,0.3133,0.3458
+moonshotai,4,0.4815,0.6491
+qwen,1,0.6748,0.6787
+qwen,2,0.5816,0.9228
+qwen,3,0.6735,0.6016
+qwen,4,0.6787,0.5745
+tinyllama,1,0.1489,0.5984
+tinyllama,2,-0.0526,0.6032
+tinyllama,3,0.0308,0.9177
+tinyllama,4,0.1093,0.8361
