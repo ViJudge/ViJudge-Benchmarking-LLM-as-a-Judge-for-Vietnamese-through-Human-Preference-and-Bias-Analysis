@@ -115,7 +115,7 @@ ViJudge/
 │   │   │   ├── statistics_position_bias.ipynb
 │   │   │   └── visualization_position_bias.ipynb
 │   │   │
-│   │   └── verbosity_bias/
+│   │   ├── verbosity_bias/
 │   │   │   ├── verbosity_bias_verdict_generation.ipynb
 │   │   │   ├── statistics_verbosity_bias.ipynb
 │   │   │   └── visualization_verbosity_bias.ipynb
