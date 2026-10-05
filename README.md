@@ -116,9 +116,12 @@ ViJudge/
 │   │   │   └── visualization_position_bias.ipynb
 │   │   │
 │   │   └── verbosity_bias/
-│   │       ├── verbosity_bias_verdict_generation.ipynb
-│   │       ├── statistics_verbosity_bias.ipynb
-│   │       └── visualization_verbosity_bias.ipynb
+│   │   │   ├── verbosity_bias_verdict_generation.ipynb
+│   │   │   ├── statistics_verbosity_bias.ipynb
+│   │   │   └── visualization_verbosity_bias.ipynb
+│   │   │
+│   │   └── self_preference_bias/
+│   │       └── self_preference_bias.ipynb
 │   │
 │   └── 4_measure_agreement/                # Phase 4: Inter-rater agreement
 │       ├── agreement.ipynb
@@ -179,6 +182,10 @@ ViJudge/
     │   ├── [judge_name]_verbosity_bias_for_verbosity_*.csv
     │   └── statistics/
     │       └── bias_by_attempt_and_config_result.csv
+    │
+    ├── self_preference_bias/               # Self-preference bias evaluation results
+    │   └── statistics/
+    │       └── bias_result.csv
     │
     ├── visualization/                      # Final formatted results
     │   ├── language_bias/
@@ -309,6 +316,9 @@ question_id, category, judge_verdict, judge_explanation, confidence_score (if ap
 **Verbosity Bias** (`/data/verbosity_bias/`):
 - Raw verdict files: `[judge_name]_verbosity_bias_for_verbosity_llama.csv` (config: original-repetitive, repetitive-original)
 - Statistics: `/statistics/bias_by_attempt_and_config_result.csv` (Not Bias, Bias, Error rates)
+
+**Self-Preference Bias** (`/data/self_preference_bias/`):
+- Statistics: `/statistics/bias_result.csv` (Percentage of self-preference when disagreeing with human judges)
 
 ---
 
@@ -670,6 +680,18 @@ This phase implements three bias analysis experiments:
    - Generates a formatted summary table displaying the percentages as `Mean (±Std)`.
 
 **Output**: A formatted summary table (`data/visualization/verbosity_bias/verbosity_avg_bias_ratio_table.csv`) detailing the Not Bias, Bias, and Error percentages, quantifying the judge's inclination toward verbosity.
+
+#### Phase 3.4: Self-Preference Bias Analysis
+
+**Execution Pipeline**:
+
+1. **Statistical Analysis & Bias Calculation**: `self_preference_bias.ipynb`
+   - Filters the dataset to isolate pairwise evaluation instances where the LLM judge itself is one of the candidate models being evaluated (Model A or Model B).
+   - Removes tie evaluations (`C`) and `Unknown` verdicts from both human and model judgments to focus on clear preferences.
+   - Merges the LLM judge's verdicts with the human annotators' verdicts for the same questions.
+   - Identifies divergent cases where the LLM judge disagrees with human annotators and explicitly favors its own generated response.
+   - Computes the percentage rate of self-preference bias (instances of self-preference over the total instances of disagreement with humans).
+   - Output: `data/self_preference_bias/statistics/bias_result.csv`.
 
 ---
 

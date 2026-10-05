@@ -1,0 +1,6 @@
+judge,bias (%)
+openai,78.75
+llama,29.508196721311474
+moonshotai,80.64516129032258
+qwen,52.0
+deepseek,28.000000000000004
