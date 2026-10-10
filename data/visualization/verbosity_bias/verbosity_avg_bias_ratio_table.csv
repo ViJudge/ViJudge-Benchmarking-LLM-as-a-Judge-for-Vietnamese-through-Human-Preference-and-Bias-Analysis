@@ -1,4 +1,6 @@
 judge,config,Not bias (%),Bias (%),Error (%)
+deepseek,original-repetitive,77.50 (±5.00),21.25 (±4.79),1.25 (±2.50)
+deepseek,repetitive-original,63.75 (±8.54),36.25 (±8.54),0.00 (±0.00)
 llama,original-repetitive,68.75 (±4.79),31.25 (±4.79),0.00 (±0.00)
 llama,repetitive-original,33.75 (±8.54),66.25 (±8.54),0.00 (±0.00)
 moonshotai,original-repetitive,81.25 (±8.54),10.00 (±4.08),8.75 (±7.50)
